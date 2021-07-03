@@ -1,9 +1,9 @@
 # Machine Learning CS542 Final Project 
-## Convolutional Neural Network for the classification of the Fashion MNIST dataset
-By Nanna Hannesdottir, Fatemeh Sharifi and Shahaf Dan
+## Convolutional Neural Network for the classification of Fashion MNIST
+Authors: Nanna Katrin Hannesdottir, Fatemeh Sharifi and Shahaf Dan
 
 ### Download and running instructions
-#### Dataset
+#### Datasets
 The Fashion MNIST dataset we used was retrieved at: https://www.kaggle.com/zalando-research/fashionmnist <br>
 For your convenience we have also uploaded it to this repository under archive.zip <br>
 
