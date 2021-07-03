@@ -27,6 +27,8 @@ All necessary code to import, train and test to get our results for  the Fashion
 For the code on our experiment with the more complex dataset you should first download the data from the kaggle link, then run 'Fashion_Images_PreProcess.ipynb'
 to recode and generate two numpy arrays with the data ready for testing, and then finally run 'Image_Classifier_WithNewData.ipynb' which trains the model and tests on the new data.
 
+**Note:** The training might take some time, even on a gpu, but usually <2 hours
+
 ### Link to paper pdf
 
 ### Link to presentation
