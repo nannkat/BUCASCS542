@@ -30,6 +30,6 @@ to recode and generate two numpy arrays with the data ready for testing, and the
 **Note:** The training might take some time, even on a gpu, but usually <2 hours
 
 ### Link to paper pdf
-
+[NeurIPS_2021.pdf](https://github.com/nannkat/BUCASCS542/blob/master/NeurIPS_2021.pdf)
 ### Link to presentation
 https://docs.google.com/presentation/d/173FqlFXQnVhZGY8sG87RFN6OtOlgctHo81vlUd481f8/edit#slide=id.ge347f9103e_4_608
